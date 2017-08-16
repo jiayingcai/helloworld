@@ -1,0 +1,16 @@
+{
+    "name": "jiaying/helloworld",
+    "description": "my first laravel package",
+    "authors": [
+        {
+            "name": "JiaYing",
+            "email": "JiaYing.Cai@acer.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "JiaYing\\HelloWorld\\": "src/"
+        }
+    }
+}
